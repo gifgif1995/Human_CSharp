@@ -1,0 +1,11 @@
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/human/obj/Debug/netcoreapp2.2/human.csprojAssemblyReference.cache
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/human/obj/Debug/netcoreapp2.2/human.csproj.CoreCompileInputs.cache
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/human/obj/Debug/netcoreapp2.2/human.AssemblyInfoInputs.cache
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/human/obj/Debug/netcoreapp2.2/human.AssemblyInfo.cs
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/human/bin/Debug/netcoreapp2.2/human.deps.json
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/human/bin/Debug/netcoreapp2.2/human.runtimeconfig.json
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/human/bin/Debug/netcoreapp2.2/human.runtimeconfig.dev.json
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/human/bin/Debug/netcoreapp2.2/human.dll
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/human/bin/Debug/netcoreapp2.2/human.pdb
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/human/obj/Debug/netcoreapp2.2/human.dll
+/Users/ryan/Desktop/coding_dojo/C_Sharp/oop_with_c#/human/obj/Debug/netcoreapp2.2/human.pdb
